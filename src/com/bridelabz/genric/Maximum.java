@@ -25,6 +25,6 @@ public class Maximum<E extends Comparable> {
     }
 
     private static <E> void toPrint(E value1, E value2, E value3, E max) {
-        System.out.println("Max of "+value1+" , "+value2+" , "+value3+" is: "+max);
+        System.out.println("Max of " + value1 + " , " + value2 + " , " + value3 + " is: " + max);
     }
 }
